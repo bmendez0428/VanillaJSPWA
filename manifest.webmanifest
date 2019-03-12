@@ -1,5 +1,6 @@
 {
   "background_color": "purple",
+   "theme_color": "#2196F3",
   "description": "VanillaJS ToDoMVC as a PWA.",
   "display": "fullscreen",
   "icons": [
